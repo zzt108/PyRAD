@@ -1,5 +1,6 @@
-#Install dev environment
-##Install wxPython
+# Install dev environment
+
+## Install wxPython
 
 Command prompt
 pip3 install wxpython
@@ -13,9 +14,11 @@ enter command : pip install wheel
 enter command : pip install pygame
 To install wxpython enter command : pip install -U wxPython
 
-##Install OpenPyXl - for accessin exel spreadsheets
+## Install OpenPyXl - for accessin exel spreadsheets
+
 Version 3.0.4 has a bug so use specific version 3.0.3
 pip3 -Iv openpyxl==3.0.3
 
-##Install wxGlade
+## Install wxGlade
+
 1. Download Zip from Source forge
